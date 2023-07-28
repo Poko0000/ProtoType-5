@@ -8,6 +8,8 @@ public class GameManager : MonoBehaviour
 
     private float spawnRate = 1.0f;
 
+    int x = 0;
+
     // Start is called before the first frame update
     void Start()
     {
